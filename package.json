@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-dsdot",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Calculate the dot product with extended accumulation and result of two single-precision floating-point vectors.",
   "license": "Apache-2.0",
   "author": {
