@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.4.0">
 
-## Unreleased (2025-12-22)
+## 0.4.0 (2026-01-29)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`29fc92b`](https://github.com/stdlib-js/stdlib/commit/29fc92b2cfc9285b1f8eb6ad0623e520168efa9c) - **bench:** refactor to use dynamic memory allocation in `blas/base/dsdot` [(#9309)](https://github.com/stdlib-js/stdlib/pull/9309) _(by Yohan Park, Athan Reines)_
 -   [`4977993`](https://github.com/stdlib-js/stdlib/commit/4977993a257fde660b0f8c5678ab0c8d6e26538a) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`11f3cfa`](https://github.com/stdlib-js/stdlib/commit/11f3cfa5a658d7cb105aeb2578b7d72ea62f1e97) - **refactor:** update include header guards for double precision real packages [(#7711)](https://github.com/stdlib-js/stdlib/pull/7711) _(by Shabareesh Shetty)_
